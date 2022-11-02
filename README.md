@@ -1,6 +1,6 @@
 # FWA_42
 
-![Java](https://img.shields.io/badge/Java-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
+![Java](https://img.shields.io/badge/Java_EE-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
 ![Servlet API](https://img.shields.io/badge/Servlet_API-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
 ![JSP](https://img.shields.io/badge/JSP-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
 ![TomCat](https://img.shields.io/badge/Apache_TomCat-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
