@@ -1,10 +1,19 @@
 # FWA_42
 
+![Java](https://img.shields.io/badge/Java-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
+![Socket](https://img.shields.io/badge/Socket_API-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
+![JSP](https://img.shields.io/badge/JSP-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
+![TomCat](https://img.shields.io/badge/Apache_TomCat-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
+![Maven](https://img.shields.io/badge/Maven-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
+![MVC](https://img.shields.io/badge/MVC-2F4F4F?style=flat&logo=java&logoColor=E9D54D) 
+
+
+
 Это веб-приложение, построенное на стандартных технологиях Java.
 <details>
 <summary>Материалы для изучения</summary>
 
-* [Шаг 1. Что нужно знать перед изучением Spring и JavaEE](https://javarush.ru/groups/posts/2514-vvedenie-v-enterprise-razrabotku)
+* [Часть цикла “Введение в Enterprise-разработку”](https://javarush.ru/groups/posts/2514-vvedenie-v-enterprise-razrabotku)
 
 * [Что такое Сервлеты, Java servlet API](https://javarush.ru/groups/posts/2529-chastjh-5-servletih-pishem-prostoe-veb-prilozhenie)
 
