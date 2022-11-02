@@ -15,7 +15,7 @@
 
 * [Часть цикла “Введение в Enterprise-разработку”](https://javarush.ru/groups/posts/2514-vvedenie-v-enterprise-razrabotku)
 
-* [Что такое Сервлеты, Java servlet API](https://javarush.ru/groups/posts/2529-chastjh-5-servletih-pishem-prostoe-veb-prilozhenie)
+* [Видео курс от Н.Алишева "Java EE для начинающих"](https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)
 
 
 </details>
