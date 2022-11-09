@@ -14,24 +14,12 @@ public class MainServlets extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        HttpSession session = req.getSession();
-        Integer visitCounter = (Integer) session.getAttribute("visitCounter");
-        if (visitCounter == null) {
-            visitCounter = 1;
-        } else {
-            visitCounter++;
-        }
-        session.setAttribute("visitCounter", visitCounter);
-        String username = req.getParameter("username");
-        resp.setContentType("text/html");
-        PrintWriter printWriter = resp.getWriter();
-        if (username == null) {
-            printWriter.write("Hello, Anonymous" + "<br>");
-        } else {
-            printWriter.write("Hello, " + username + "<br>");
-        }
-        printWriter.write("Page was visited " + visitCounter + " times.");
-        printWriter.close();
+            String name = req.getParameter("name");
+            String surname = req.getParameter("surname");
+            PrintWriter pw = resp.getWriter();
+            pw.println("<html>");
+            pw.println("<h1> Hello, " + name + " " +    surname + "! </h1>");
+            pw.println("</html>");
     }
 
 }

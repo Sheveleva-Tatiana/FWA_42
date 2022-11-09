@@ -13,16 +13,11 @@
 <body>
     <h1>Testing JSP</h1>
     <p>
-        <%@ page import="java.util.Date, edu.school.cinema.test.TestClass" %>
         <%
-            TestClass testClass = new TestClass();
+            String name = request.getParameter("name");
+            String surname = request.getParameter("surname");
         %>
-        <%=
-            testClass.getInfo()
-        %>
-
-
-
+        <%= "<p1> Hello, " + name + " " + surname + "!</p1>"%>
     </p>
 
 </body>
