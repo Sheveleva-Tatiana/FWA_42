@@ -17,6 +17,8 @@
 
 * [Видео курс от Н.Алишева "Java EE для начинающих"](https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)
 
+* [Видео курс от Java Vision "Java Servlets"](https://www.youtube.com/playlist?list=PL7Bt6mWpiizZq71c4wuBl7lmY-M7nen_J)
+
 
 </details>
 
