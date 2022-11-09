@@ -12,13 +12,5 @@
 </head>
 <body>
     <h1>Testing JSP</h1>
-    <p>
-        <%
-            String name = request.getParameter("name");
-            String surname = request.getParameter("surname");
-        %>
-        <%= "<p1> Hello, " + name + " " + surname + "!</p1>"%>
-    </p>
-
 </body>
 </html>

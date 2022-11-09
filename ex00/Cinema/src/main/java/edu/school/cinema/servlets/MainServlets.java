@@ -1,5 +1,6 @@
 package edu.school.cinema.servlets;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -20,6 +21,9 @@ public class MainServlets extends HttpServlet {
             pw.println("<html>");
             pw.println("<h1> Hello, " + name + " " +    surname + "! </h1>");
             pw.println("</html>");
+
+        RequestDispatcher dispatcher = req.getRequestDispatcher("/index.jsp");
+        dispatcher.forward(req, resp);
     }
 
 }
